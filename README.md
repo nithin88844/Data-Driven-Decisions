@@ -1,5 +1,5 @@
 
-# Sales Analysis Project
+# Data-Driven Decision
 
 This Power BI project provides valuable insights into sales data for a company. It analyzes the sales performance of the company over a specified period and provides various visualizations to showcase the findings.
 
